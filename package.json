@@ -1,0 +1,22 @@
+{
+  "name": "fcc-api-projects-boilerplate",
+  "version": "0.0.1",
+  "description": "An FCC Backend Challenge",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "keywords": [
+    "freecodecamp"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "aswari"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
